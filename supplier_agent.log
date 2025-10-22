@@ -1,0 +1,25 @@
+2025-10-23 04:29:37,455 - supplier_agent.legacy_supplier_db - WARNING - Legacy supplier_db.main() called. Use supplier_agent.main instead.
+2025-10-23 04:29:37,456 - supplier_agent.main - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 04:29:37,456 - supplier_agent.main - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 04:29:37,456 - supplier_agent.main - INFO - 🌐 Server port: 8080
+2025-10-23 04:29:37,456 - supplier_agent.main - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 04:29:41,736 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
+2025-10-23 04:29:41,736 - supplier_agent.acp_server - INFO - ACP Agent started successfully
+2025-10-23 04:32:07,502 - supplier_agent.legacy_supplier_db - WARNING - Legacy supplier_db.main() called. Use supplier_agent.main instead.
+2025-10-23 04:32:07,503 - supplier_agent.main - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 04:32:07,503 - supplier_agent.main - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 04:32:07,503 - supplier_agent.main - INFO - 🌐 Server port: 8080
+2025-10-23 04:32:07,503 - supplier_agent.main - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 04:32:11,351 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
+2025-10-23 04:32:11,352 - supplier_agent.acp_server - INFO - ACP Agent started successfully
+2025-10-23 04:32:11,581 - supplier_agent.acp_server - INFO - Database connections closed
+2025-10-23 04:34:15,840 - supplier_agent.acp_server - ERROR - Failed to get resource 1 from products: invalid input for query argument $1: '1' (an integer is required (got type str))
+2025-10-23 04:34:44,348 - supplier_agent.acp_server - ERROR - Failed to get resource 1 from products: invalid input for query argument $1: '1' (an integer is required (got type str))
+2025-10-23 04:35:10,059 - supplier_agent.acp_server - INFO - Database connections closed
+2025-10-23 04:35:15,127 - supplier_agent.legacy_supplier_db - WARNING - Legacy supplier_db.main() called. Use supplier_agent.main instead.
+2025-10-23 04:35:15,127 - supplier_agent.main - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 04:35:15,127 - supplier_agent.main - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 04:35:15,127 - supplier_agent.main - INFO - 🌐 Server port: 8080
+2025-10-23 04:35:15,127 - supplier_agent.main - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 04:35:18,939 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
+2025-10-23 04:35:18,939 - supplier_agent.acp_server - INFO - ACP Agent started successfully
