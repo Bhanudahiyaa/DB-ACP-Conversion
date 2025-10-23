@@ -544,3 +544,303 @@
 [2025-10-23 21:53:17,906] Supplier → client | GET /acp/schema/variants | 0 records | OK | 507ms
 [2025-10-23 21:53:19,475] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1562ms
 [2025-10-23 21:55:24,749] Supplier → client | GET /acp/resource/products/products:1 | 1 records | OK | 2069ms
+[2025-10-23 22:06:46,855] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:06:48,473] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:06:49,591] Supplier → client | GET /acp/schema | 2 records | OK | 2724ms
+[2025-10-23 22:06:50,594] Supplier → client | GET /acp/schema | 2 records | OK | 2117ms
+[2025-10-23 22:06:51,206] Supplier → client | GET /acp/schema/products | 0 records | OK | 1604ms
+[2025-10-23 22:06:51,208] Supplier → client | GET /acp/schema/products | 0 records | OK | 603ms
+[2025-10-23 22:06:51,745] Supplier → client | GET /acp/schema/variants | 0 records | OK | 508ms
+[2025-10-23 22:06:51,748] Supplier → client | GET /acp/schema/variants | 0 records | OK | 533ms
+[2025-10-23 22:06:54,057] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2306ms
+[2025-10-23 22:06:54,280] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2529ms
+[2025-10-23 22:08:19,524] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:08:20,032] Supplier → client | GET /acp/schema | 2 records | OK | 491ms
+[2025-10-23 22:08:22,126] Supplier → client | GET /acp/schema/products | 0 records | OK | 2085ms
+[2025-10-23 22:08:22,629] Supplier → client | GET /acp/schema/variants | 0 records | OK | 486ms
+[2025-10-23 22:08:24,460] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1824ms
+[2025-10-23 22:21:54,092] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:21:54,308] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:21:56,750] Supplier → client | GET /acp/schema | 2 records | OK | 2434ms
+[2025-10-23 22:21:58,317] Supplier → client | GET /acp/schema | 2 records | OK | 4213ms
+[2025-10-23 22:21:59,406] Supplier → client | GET /acp/schema/products | 0 records | OK | 2646ms
+[2025-10-23 22:22:00,018] Supplier → client | GET /acp/schema/variants | 0 records | OK | 602ms
+[2025-10-23 22:22:00,383] Supplier → client | GET /acp/schema/products | 0 records | OK | 2054ms
+[2025-10-23 22:22:00,877] Supplier → client | GET /acp/schema/variants | 0 records | OK | 487ms
+[2025-10-23 22:22:02,788] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2766ms
+[2025-10-23 22:22:03,316] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2426ms
+[2025-10-23 22:23:24,493] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:23:24,971] Supplier → client | GET /acp/schema | 2 records | OK | 468ms
+[2025-10-23 22:23:26,190] Supplier → client | GET /acp/schema/products | 0 records | OK | 1213ms
+[2025-10-23 22:23:26,670] Supplier → client | GET /acp/schema/variants | 0 records | OK | 470ms
+[2025-10-23 22:23:28,349] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1672ms
+[2025-10-23 22:37:02,856] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:37:03,362] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:37:05,575] Supplier → client | GET /acp/schema | 2 records | OK | 2706ms
+[2025-10-23 22:37:07,006] Supplier → client | GET /acp/schema | 2 records | OK | 3639ms
+[2025-10-23 22:37:08,148] Supplier → client | GET /acp/schema/products | 0 records | OK | 2566ms
+[2025-10-23 22:37:08,485] Supplier → client | GET /acp/schema/products | 0 records | OK | 1472ms
+[2025-10-23 22:37:08,624] Supplier → client | GET /acp/schema/variants | 0 records | OK | 468ms
+[2025-10-23 22:37:08,982] Supplier → client | GET /acp/schema/variants | 0 records | OK | 491ms
+[2025-10-23 22:37:11,184] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2556ms
+[2025-10-23 22:37:11,504] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2519ms
+[2025-10-23 22:38:28,402] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:38:28,899] Supplier → client | GET /acp/schema | 2 records | OK | 489ms
+[2025-10-23 22:38:30,072] Supplier → client | GET /acp/schema/products | 0 records | OK | 1169ms
+[2025-10-23 22:38:30,562] Supplier → client | GET /acp/schema/variants | 0 records | OK | 484ms
+[2025-10-23 22:38:32,318] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1750ms
+[2025-10-23 22:52:11,217] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:52:11,531] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:52:13,886] Supplier → client | GET /acp/schema | 2 records | OK | 2660ms
+[2025-10-23 22:52:13,887] Supplier → client | GET /acp/schema | 2 records | OK | 2346ms
+[2025-10-23 22:52:15,371] Supplier → client | GET /acp/schema/products | 0 records | OK | 1476ms
+[2025-10-23 22:52:15,372] Supplier → client | GET /acp/schema/products | 0 records | OK | 1478ms
+[2025-10-23 22:52:15,853] Supplier → client | GET /acp/schema/variants | 0 records | OK | 473ms
+[2025-10-23 22:52:15,876] Supplier → client | GET /acp/schema/variants | 0 records | OK | 483ms
+[2025-10-23 22:52:18,060] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2181ms
+[2025-10-23 22:52:18,360] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2505ms
+[2025-10-23 22:53:32,350] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 22:53:32,829] Supplier → client | GET /acp/schema | 2 records | OK | 470ms
+[2025-10-23 22:53:34,029] Supplier → client | GET /acp/schema/products | 0 records | OK | 1191ms
+[2025-10-23 22:53:34,495] Supplier → client | GET /acp/schema/variants | 0 records | OK | 459ms
+[2025-10-23 22:53:35,953] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1452ms
+[2025-10-23 23:07:18,053] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:07:18,357] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:07:20,670] Supplier → client | GET /acp/schema | 2 records | OK | 2309ms
+[2025-10-23 23:07:20,672] Supplier → client | GET /acp/schema | 2 records | OK | 2611ms
+[2025-10-23 23:07:22,166] Supplier → client | GET /acp/schema/products | 0 records | OK | 1486ms
+[2025-10-23 23:07:22,168] Supplier → client | GET /acp/schema/products | 0 records | OK | 1487ms
+[2025-10-23 23:07:22,633] Supplier → client | GET /acp/schema/variants | 0 records | OK | 459ms
+[2025-10-23 23:07:22,635] Supplier → client | GET /acp/schema/variants | 0 records | OK | 462ms
+[2025-10-23 23:07:24,804] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2162ms
+[2025-10-23 23:07:24,807] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2165ms
+[2025-10-23 23:08:35,959] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:08:36,449] Supplier → client | GET /acp/schema | 2 records | OK | 481ms
+[2025-10-23 23:08:37,617] Supplier → client | GET /acp/schema/products | 0 records | OK | 1161ms
+[2025-10-23 23:08:38,098] Supplier → client | GET /acp/schema/variants | 0 records | OK | 474ms
+[2025-10-23 23:08:39,518] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1414ms
+[2025-10-23 23:22:24,837] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:22:24,842] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:22:27,593] Supplier → client | GET /acp/schema | 2 records | OK | 2732ms
+[2025-10-23 23:22:27,596] Supplier → client | GET /acp/schema | 2 records | OK | 2738ms
+[2025-10-23 23:22:29,344] Supplier → client | GET /acp/schema/products | 0 records | OK | 1739ms
+[2025-10-23 23:22:29,347] Supplier → client | GET /acp/schema/products | 0 records | OK | 1741ms
+[2025-10-23 23:22:29,854] Supplier → client | GET /acp/schema/variants | 0 records | OK | 500ms
+[2025-10-23 23:22:29,857] Supplier → client | GET /acp/schema/variants | 0 records | OK | 485ms
+[2025-10-23 23:22:32,300] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2437ms
+[2025-10-23 23:22:32,303] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2440ms
+[2025-10-23 23:23:39,549] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:23:40,046] Supplier → client | GET /acp/schema | 2 records | OK | 489ms
+[2025-10-23 23:23:41,386] Supplier → client | GET /acp/schema/products | 0 records | OK | 1333ms
+[2025-10-23 23:23:42,021] Supplier → client | GET /acp/schema/variants | 0 records | OK | 632ms
+[2025-10-23 23:23:43,689] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1664ms
+[2025-10-23 23:37:32,348] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:37:32,353] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:37:35,312] Supplier → client | GET /acp/schema | 2 records | OK | 2950ms
+[2025-10-23 23:37:35,315] Supplier → client | GET /acp/schema | 2 records | OK | 2956ms
+[2025-10-23 23:37:36,856] Supplier → client | GET /acp/schema/products | 0 records | OK | 1533ms
+[2025-10-23 23:37:36,861] Supplier → client | GET /acp/schema/products | 0 records | OK | 1538ms
+[2025-10-23 23:37:37,327] Supplier → client | GET /acp/schema/variants | 0 records | OK | 457ms
+[2025-10-23 23:37:37,331] Supplier → client | GET /acp/schema/variants | 0 records | OK | 462ms
+[2025-10-23 23:37:39,717] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2381ms
+[2025-10-23 23:37:39,720] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2384ms
+[2025-10-23 23:38:43,741] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:38:44,251] Supplier → client | GET /acp/schema | 2 records | OK | 503ms
+[2025-10-23 23:38:45,454] Supplier → client | GET /acp/schema/products | 0 records | OK | 1192ms
+[2025-10-23 23:38:46,006] Supplier → client | GET /acp/schema/variants | 0 records | OK | 543ms
+[2025-10-23 23:38:47,713] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1701ms
+[2025-10-23 23:52:39,651] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:52:39,656] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:52:42,359] Supplier → client | GET /acp/schema | 2 records | OK | 2695ms
+[2025-10-23 23:52:42,363] Supplier → client | GET /acp/schema | 2 records | OK | 2696ms
+[2025-10-23 23:52:43,835] Supplier → client | GET /acp/schema/products | 0 records | OK | 1465ms
+[2025-10-23 23:52:43,839] Supplier → client | GET /acp/schema/products | 0 records | OK | 1470ms
+[2025-10-23 23:52:44,359] Supplier → client | GET /acp/schema/variants | 0 records | OK | 513ms
+[2025-10-23 23:52:44,362] Supplier → client | GET /acp/schema/variants | 0 records | OK | 517ms
+[2025-10-23 23:52:46,724] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2356ms
+[2025-10-23 23:52:46,727] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2359ms
+[2025-10-23 23:53:47,650] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-23 23:53:48,122] Supplier → client | GET /acp/schema | 2 records | OK | 461ms
+[2025-10-23 23:53:49,312] Supplier → client | GET /acp/schema/products | 0 records | OK | 1182ms
+[2025-10-23 23:53:49,867] Supplier → client | GET /acp/schema/variants | 0 records | OK | 546ms
+[2025-10-23 23:53:51,436] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1550ms
+[2025-10-24 00:07:46,784] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:07:46,789] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:07:49,327] Supplier → client | GET /acp/schema | 2 records | OK | 2528ms
+[2025-10-24 00:07:49,406] Supplier → client | GET /acp/schema | 2 records | OK | 2610ms
+[2025-10-24 00:07:50,798] Supplier → client | GET /acp/schema/products | 0 records | OK | 1383ms
+[2025-10-24 00:07:50,800] Supplier → client | GET /acp/schema/products | 0 records | OK | 1462ms
+[2025-10-24 00:07:51,331] Supplier → client | GET /acp/schema/variants | 0 records | OK | 524ms
+[2025-10-24 00:07:51,333] Supplier → client | GET /acp/schema/variants | 0 records | OK | 517ms
+[2025-10-24 00:07:53,615] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2276ms
+[2025-10-24 00:07:53,617] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2278ms
+[2025-10-24 00:08:51,491] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:08:51,957] Supplier → client | GET /acp/schema | 2 records | OK | 457ms
+[2025-10-24 00:08:53,414] Supplier → client | GET /acp/schema/products | 0 records | OK | 1447ms
+[2025-10-24 00:08:53,921] Supplier → client | GET /acp/schema/variants | 0 records | OK | 499ms
+[2025-10-24 00:08:55,544] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1615ms
+[2025-10-24 00:22:53,684] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:22:53,689] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:22:56,368] Supplier → client | GET /acp/schema | 2 records | OK | 2666ms
+[2025-10-24 00:22:56,539] Supplier → client | GET /acp/schema | 2 records | OK | 2840ms
+[2025-10-24 00:22:57,836] Supplier → client | GET /acp/schema/products | 0 records | OK | 1455ms
+[2025-10-24 00:22:57,927] Supplier → client | GET /acp/schema/products | 0 records | OK | 1378ms
+[2025-10-24 00:22:58,307] Supplier → client | GET /acp/schema/variants | 0 records | OK | 461ms
+[2025-10-24 00:22:58,396] Supplier → client | GET /acp/schema/variants | 0 records | OK | 458ms
+[2025-10-24 00:23:00,451] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2136ms
+[2025-10-24 00:23:00,508] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2104ms
+[2025-10-24 00:23:55,600] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:23:56,191] Supplier → client | GET /acp/schema | 2 records | OK | 572ms
+[2025-10-24 00:23:56,803] Supplier → client | GET /acp/schema/products | 0 records | OK | 603ms
+[2025-10-24 00:23:57,854] Supplier → client | GET /acp/schema/variants | 0 records | OK | 1046ms
+[2025-10-24 00:24:00,088] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2226ms
+[2025-10-24 00:38:00,491] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:38:00,530] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:38:03,044] Supplier → client | GET /acp/schema | 2 records | OK | 2541ms
+[2025-10-24 00:38:03,157] Supplier → client | GET /acp/schema | 2 records | OK | 2621ms
+[2025-10-24 00:38:04,525] Supplier → client | GET /acp/schema/products | 0 records | OK | 1469ms
+[2025-10-24 00:38:04,559] Supplier → client | GET /acp/schema/products | 0 records | OK | 1392ms
+[2025-10-24 00:38:04,995] Supplier → client | GET /acp/schema/variants | 0 records | OK | 460ms
+[2025-10-24 00:38:05,043] Supplier → client | GET /acp/schema/variants | 0 records | OK | 461ms
+[2025-10-24 00:38:07,265] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2261ms
+[2025-10-24 00:38:07,268] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2222ms
+[2025-10-24 00:39:00,122] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:39:00,615] Supplier → client | GET /acp/schema | 2 records | OK | 479ms
+[2025-10-24 00:39:01,227] Supplier → client | GET /acp/schema/products | 0 records | OK | 607ms
+[2025-10-24 00:39:01,739] Supplier → client | GET /acp/schema/variants | 0 records | OK | 507ms
+[2025-10-24 00:39:03,589] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1839ms
+[2025-10-24 00:53:07,302] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:53:07,306] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:53:09,999] Supplier → client | GET /acp/schema | 2 records | OK | 2670ms
+[2025-10-24 00:53:10,033] Supplier → client | GET /acp/schema | 2 records | OK | 2712ms
+[2025-10-24 00:53:11,608] Supplier → client | GET /acp/schema/products | 0 records | OK | 1596ms
+[2025-10-24 00:53:11,612] Supplier → client | GET /acp/schema/products | 0 records | OK | 1561ms
+[2025-10-24 00:53:12,077] Supplier → client | GET /acp/schema/variants | 0 records | OK | 456ms
+[2025-10-24 00:53:12,079] Supplier → client | GET /acp/schema/variants | 0 records | OK | 464ms
+[2025-10-24 00:53:14,242] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2158ms
+[2025-10-24 00:53:14,245] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2161ms
+[2025-10-24 00:54:03,628] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 00:54:04,112] Supplier → client | GET /acp/schema | 2 records | OK | 475ms
+[2025-10-24 00:54:04,595] Supplier → client | GET /acp/schema/products | 0 records | OK | 467ms
+[2025-10-24 00:54:05,063] Supplier → client | GET /acp/schema/variants | 0 records | OK | 464ms
+[2025-10-24 00:54:06,753] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1686ms
+[2025-10-24 01:08:14,299] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:08:14,302] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:08:17,111] Supplier → client | GET /acp/schema | 2 records | OK | 2795ms
+[2025-10-24 01:08:17,112] Supplier → client | GET /acp/schema | 2 records | OK | 2802ms
+[2025-10-24 01:08:18,698] Supplier → client | GET /acp/schema/products | 0 records | OK | 1578ms
+[2025-10-24 01:08:18,701] Supplier → client | GET /acp/schema/products | 0 records | OK | 1580ms
+[2025-10-24 01:08:19,181] Supplier → client | GET /acp/schema/variants | 0 records | OK | 475ms
+[2025-10-24 01:08:19,183] Supplier → client | GET /acp/schema/variants | 0 records | OK | 476ms
+[2025-10-24 01:08:21,681] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2493ms
+[2025-10-24 01:08:21,683] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2495ms
+[2025-10-24 01:09:06,784] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:09:07,257] Supplier → client | GET /acp/schema | 2 records | OK | 464ms
+[2025-10-24 01:09:07,745] Supplier → client | GET /acp/schema/products | 0 records | OK | 481ms
+[2025-10-24 01:09:08,333] Supplier → client | GET /acp/schema/variants | 0 records | OK | 585ms
+[2025-10-24 01:09:09,994] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1657ms
+[2025-10-24 01:23:21,695] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:23:21,698] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:23:24,410] Supplier → client | GET /acp/schema | 2 records | OK | 2701ms
+[2025-10-24 01:23:24,411] Supplier → client | GET /acp/schema | 2 records | OK | 2706ms
+[2025-10-24 01:23:26,030] Supplier → client | GET /acp/schema/products | 0 records | OK | 1607ms
+[2025-10-24 01:23:26,031] Supplier → client | GET /acp/schema/products | 0 records | OK | 1607ms
+[2025-10-24 01:23:26,494] Supplier → client | GET /acp/schema/variants | 0 records | OK | 457ms
+[2025-10-24 01:23:26,505] Supplier → client | GET /acp/schema/variants | 0 records | OK | 464ms
+[2025-10-24 01:23:28,979] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2482ms
+[2025-10-24 01:23:28,980] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2473ms
+[2025-10-24 01:24:10,012] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:24:10,594] Supplier → client | GET /acp/schema | 2 records | OK | 573ms
+[2025-10-24 01:24:11,060] Supplier → client | GET /acp/schema/products | 0 records | OK | 460ms
+[2025-10-24 01:24:11,987] Supplier → client | GET /acp/schema/variants | 0 records | OK | 923ms
+[2025-10-24 01:24:13,765] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1772ms
+[2025-10-24 01:38:28,990] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:38:28,992] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:38:31,770] Supplier → client | GET /acp/schema | 2 records | OK | 2772ms
+[2025-10-24 01:38:32,288] Supplier → client | GET /acp/schema | 2 records | OK | 3292ms
+[2025-10-24 01:38:33,518] Supplier → client | GET /acp/schema/products | 0 records | OK | 1736ms
+[2025-10-24 01:38:34,133] Supplier → client | GET /acp/schema/products | 0 records | OK | 1832ms
+[2025-10-24 01:38:34,135] Supplier → client | GET /acp/schema/variants | 0 records | OK | 610ms
+[2025-10-24 01:38:34,749] Supplier → client | GET /acp/schema/variants | 0 records | OK | 611ms
+[2025-10-24 01:38:36,528] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2390ms
+[2025-10-24 01:38:36,974] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2219ms
+[2025-10-24 01:39:13,774] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:39:14,683] Supplier → client | GET /acp/schema | 2 records | OK | 903ms
+[2025-10-24 01:39:15,191] Supplier → client | GET /acp/schema/products | 0 records | OK | 501ms
+[2025-10-24 01:39:15,939] Supplier → client | GET /acp/schema/variants | 0 records | OK | 743ms
+[2025-10-24 01:39:17,778] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1836ms
+[2025-10-24 01:53:36,564] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:53:37,019] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:53:39,135] Supplier → client | GET /acp/schema | 2 records | OK | 2564ms
+[2025-10-24 01:53:39,177] Supplier → client | GET /acp/schema | 2 records | OK | 2153ms
+[2025-10-24 01:53:40,743] Supplier → client | GET /acp/schema/products | 0 records | OK | 1602ms
+[2025-10-24 01:53:40,745] Supplier → client | GET /acp/schema/products | 0 records | OK | 1564ms
+[2025-10-24 01:53:41,218] Supplier → client | GET /acp/schema/variants | 0 records | OK | 463ms
+[2025-10-24 01:53:41,225] Supplier → client | GET /acp/schema/variants | 0 records | OK | 461ms
+[2025-10-24 01:53:43,487] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2260ms
+[2025-10-24 01:53:43,489] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2260ms
+[2025-10-24 01:54:17,815] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 01:54:18,284] Supplier → client | GET /acp/schema | 2 records | OK | 464ms
+[2025-10-24 01:54:18,829] Supplier → client | GET /acp/schema/products | 0 records | OK | 538ms
+[2025-10-24 01:54:19,338] Supplier → client | GET /acp/schema/variants | 0 records | OK | 497ms
+[2025-10-24 01:54:21,168] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1823ms
+[2025-10-24 02:08:43,531] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:08:43,535] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:08:46,115] Supplier → client | GET /acp/schema | 2 records | OK | 2569ms
+[2025-10-24 02:08:46,656] Supplier → client | GET /acp/schema | 2 records | OK | 3114ms
+[2025-10-24 02:08:47,616] Supplier → client | GET /acp/schema/products | 0 records | OK | 1490ms
+[2025-10-24 02:08:48,308] Supplier → client | GET /acp/schema/products | 0 records | OK | 1640ms
+[2025-10-24 02:08:48,312] Supplier → client | GET /acp/schema/variants | 0 records | OK | 687ms
+[2025-10-24 02:08:48,786] Supplier → client | GET /acp/schema/variants | 0 records | OK | 467ms
+[2025-10-24 02:08:50,496] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2177ms
+[2025-10-24 02:08:50,916] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2124ms
+[2025-10-24 02:09:21,200] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:09:21,686] Supplier → client | GET /acp/schema | 2 records | OK | 479ms
+[2025-10-24 02:09:22,175] Supplier → client | GET /acp/schema/products | 0 records | OK | 479ms
+[2025-10-24 02:09:22,720] Supplier → client | GET /acp/schema/variants | 0 records | OK | 541ms
+[2025-10-24 02:09:24,632] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1910ms
+[2025-10-24 02:23:50,489] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:23:50,924] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:23:53,004] Supplier → client | GET /acp/schema | 2 records | OK | 2504ms
+[2025-10-24 02:23:53,042] Supplier → client | GET /acp/schema | 2 records | OK | 2110ms
+[2025-10-24 02:23:54,471] Supplier → client | GET /acp/schema/products | 0 records | OK | 1455ms
+[2025-10-24 02:23:54,474] Supplier → client | GET /acp/schema/products | 0 records | OK | 1425ms
+[2025-10-24 02:23:54,938] Supplier → client | GET /acp/schema/variants | 0 records | OK | 458ms
+[2025-10-24 02:23:54,939] Supplier → client | GET /acp/schema/variants | 0 records | OK | 458ms
+[2025-10-24 02:23:57,252] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2310ms
+[2025-10-24 02:23:57,255] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2312ms
+[2025-10-24 02:24:24,632] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:24:25,113] Supplier → client | GET /acp/schema | 2 records | OK | 468ms
+[2025-10-24 02:24:25,670] Supplier → client | GET /acp/schema/products | 0 records | OK | 549ms
+[2025-10-24 02:24:26,148] Supplier → client | GET /acp/schema/variants | 0 records | OK | 473ms
+[2025-10-24 02:24:28,130] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1977ms
+[2025-10-24 02:38:57,273] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:38:57,279] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:39:00,260] Supplier → client | GET /acp/schema | 2 records | OK | 2968ms
+[2025-10-24 02:39:00,262] Supplier → client | GET /acp/schema | 2 records | OK | 2974ms
+[2025-10-24 02:39:01,922] Supplier → client | GET /acp/schema/products | 0 records | OK | 1651ms
+[2025-10-24 02:39:01,925] Supplier → client | GET /acp/schema/products | 0 records | OK | 1653ms
+[2025-10-24 02:39:02,510] Supplier → client | GET /acp/schema/variants | 0 records | OK | 578ms
+[2025-10-24 02:39:02,512] Supplier → client | GET /acp/schema/variants | 0 records | OK | 555ms
+[2025-10-24 02:39:05,182] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2661ms
+[2025-10-24 02:39:05,184] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2663ms
+[2025-10-24 02:39:28,136] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:39:28,699] Supplier → client | GET /acp/schema | 2 records | OK | 556ms
+[2025-10-24 02:39:29,166] Supplier → client | GET /acp/schema/products | 0 records | OK | 462ms
+[2025-10-24 02:39:29,685] Supplier → client | GET /acp/schema/variants | 0 records | OK | 513ms
+[2025-10-24 02:39:31,701] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2007ms
+[2025-10-24 02:54:05,148] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:54:05,156] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:54:07,762] Supplier → client | GET /acp/schema | 2 records | OK | 2592ms
+[2025-10-24 02:54:07,764] Supplier → client | GET /acp/schema | 2 records | OK | 2586ms
+[2025-10-24 02:54:09,351] Supplier → client | GET /acp/schema/products | 0 records | OK | 1568ms
+[2025-10-24 02:54:09,373] Supplier → client | GET /acp/schema/products | 0 records | OK | 1588ms
+[2025-10-24 02:54:09,913] Supplier → client | GET /acp/schema/variants | 0 records | OK | 470ms
+[2025-10-24 02:54:09,915] Supplier → client | GET /acp/schema/variants | 0 records | OK | 473ms
+[2025-10-24 02:54:12,153] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2232ms
+[2025-10-24 02:54:12,153] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 2232ms
+[2025-10-24 02:54:31,651] Supplier → client | GET /.well-known/acp | 0 records | OK | 0ms
+[2025-10-24 02:54:32,130] Supplier → client | GET /acp/schema | 2 records | OK | 473ms
+[2025-10-24 02:54:32,680] Supplier → client | GET /acp/schema/products | 0 records | OK | 541ms
+[2025-10-24 02:54:33,175] Supplier → client | GET /acp/schema/variants | 0 records | OK | 490ms
+[2025-10-24 02:54:34,958] Retailer → Supplier | TASK A2A FetchCatalog | 11 records | OK | 1779ms
