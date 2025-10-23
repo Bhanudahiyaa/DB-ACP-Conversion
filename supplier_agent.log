@@ -25,3 +25,657 @@
 2025-10-23 04:35:18,939 - supplier_agent.acp_server - INFO - ACP Agent started successfully
 2025-10-23 15:22:07,186 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: 
 2025-10-23 15:22:07,296 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: 
+2025-10-23 18:40:03,429 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:24,392 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:24,802 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:24,811 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:30,786 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:31,137 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:31,152 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:40:48,048 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:31,603 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:31,604 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:31,604 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:37,337 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:37,338 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:37,339 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:41:45,948 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:49:49,216 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:56:44,716 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:56:44,738 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 18:56:44,806 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:03:53,989 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:03:54,063 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:03:54,063 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:02,210 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:02,211 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:02,217 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:03,230 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:03,231 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:03,234 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:04,250 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:04,251 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:04,251 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:10,192 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:10,192 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:10,196 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:11,204 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:11,205 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:11,207 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:12,218 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:12,218 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:12,218 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:30,788 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:30,788 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:30,795 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:31,807 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:31,807 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:31,810 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:32,827 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:32,827 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:32,828 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:40,274 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:40,274 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:40,291 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:41,284 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:41,285 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:41,301 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:42,532 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:42,540 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:42,543 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:48,546 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:48,547 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:48,547 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:49,573 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:49,574 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:49,574 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:50,594 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:50,594 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:04:50,595 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:26,611 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:26,613 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:26,614 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:27,631 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:27,631 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:27,632 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:28,649 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:28,649 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:28,650 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:34,262 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:34,263 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:34,263 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:35,278 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:35,278 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:35,279 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:36,298 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:36,299 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:36,300 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:44,816 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:45,834 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:05:46,848 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:04,481 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:04,482 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:04,490 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:05,495 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:05,495 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:05,503 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:06,538 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:06,538 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:06,539 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:12,975 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:12,976 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:12,980 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:14,001 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:14,002 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:14,003 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:15,014 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:15,015 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:15,015 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:21,903 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:21,904 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:21,905 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:22,925 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:22,927 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:22,928 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:23,951 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:23,952 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:23,952 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:25,615 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:25,615 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:25,615 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:26,627 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:26,627 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:26,628 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:27,641 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:27,641 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:17:27,643 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:15,822 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:15,823 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:15,824 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:16,842 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:16,843 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:16,844 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:17,856 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:17,856 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:17,857 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:19,303 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:19,303 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:19,304 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:20,316 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:20,316 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:20,317 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:21,337 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:21,338 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:21,338 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:20:38,118 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:21:03,304 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: Multiple exceptions: [Errno 61] Connect call failed ('::1', 5432, 0, 0), [Errno 61] Connect call failed ('127.0.0.1', 5432)
+2025-10-23 19:22:37,391 - __main__ - INFO - [2025-10-23T19:22:33.621951] unknown | FetchCatalog | 11 records | SUCCESS | 3769ms
+2025-10-23 19:23:30,890 - __main__ - INFO - [2025-10-23T19:23:29.292326] unknown | FetchCatalog | 11 records | SUCCESS | 1598ms
+2025-10-23 19:23:32,990 - __main__ - INFO - [2025-10-23T19:23:29.298046] unknown | FetchCatalog | 11 records | SUCCESS | 3692ms
+2025-10-23 19:23:33,031 - __main__ - INFO - [2025-10-23T19:23:29.293066] unknown | FetchCatalog | 11 records | SUCCESS | 3737ms
+2025-10-23 19:23:33,929 - __main__ - INFO - [2025-10-23T19:23:32.323100] unknown | FetchCatalog | 11 records | SUCCESS | 1606ms
+2025-10-23 19:23:36,001 - __main__ - INFO - [2025-10-23T19:23:34.403254] unknown | FetchCatalog | 11 records | SUCCESS | 1598ms
+2025-10-23 19:23:36,073 - __main__ - INFO - [2025-10-23T19:23:34.457592] unknown | FetchCatalog | 11 records | SUCCESS | 1615ms
+2025-10-23 19:23:44,912 - __main__ - INFO - [2025-10-23T19:23:43.248722] unknown | FetchCatalog | 11 records | SUCCESS | 1663ms
+2025-10-23 19:23:44,918 - __main__ - INFO - [2025-10-23T19:23:43.248907] unknown | FetchCatalog | 11 records | SUCCESS | 1669ms
+2025-10-23 19:23:44,933 - __main__ - INFO - [2025-10-23T19:23:43.242211] unknown | FetchCatalog | 11 records | SUCCESS | 1691ms
+2025-10-23 19:23:48,054 - __main__ - INFO - [2025-10-23T19:23:46.335446] unknown | FetchCatalog | 11 records | SUCCESS | 1718ms
+2025-10-23 19:23:48,055 - __main__ - INFO - [2025-10-23T19:23:46.340180] unknown | FetchCatalog | 11 records | SUCCESS | 1715ms
+2025-10-23 19:23:48,057 - __main__ - INFO - [2025-10-23T19:23:46.332130] unknown | FetchCatalog | 11 records | SUCCESS | 1725ms
+2025-10-23 19:25:20,032 - __main__ - INFO - [2025-10-23T19:25:18.421574] unknown | FetchCatalog | 11 records | SUCCESS | 1610ms
+2025-10-23 19:25:32,616 - __main__ - INFO - [2025-10-23T19:25:31.019547] unknown | FetchCatalog | 11 records | SUCCESS | 1596ms
+2025-10-23 19:25:32,619 - __main__ - INFO - [2025-10-23T19:25:31.019671] unknown | FetchCatalog | 11 records | SUCCESS | 1600ms
+2025-10-23 19:25:32,635 - __main__ - INFO - [2025-10-23T19:25:31.017504] unknown | FetchCatalog | 11 records | SUCCESS | 1617ms
+2025-10-23 19:25:35,675 - __main__ - INFO - [2025-10-23T19:25:34.043642] unknown | FetchCatalog | 11 records | SUCCESS | 1631ms
+2025-10-23 19:25:35,677 - __main__ - INFO - [2025-10-23T19:25:34.043134] unknown | FetchCatalog | 11 records | SUCCESS | 1634ms
+2025-10-23 19:25:35,680 - __main__ - INFO - [2025-10-23T19:25:34.042866] unknown | FetchCatalog | 11 records | SUCCESS | 1637ms
+2025-10-23 19:25:42,847 - __main__ - INFO - [2025-10-23T19:25:41.147659] unknown | FetchCatalog | 11 records | SUCCESS | 1699ms
+2025-10-23 19:25:55,245 - __main__ - INFO - [2025-10-23T19:25:53.646369] unknown | FetchCatalog | 11 records | SUCCESS | 1599ms
+2025-10-23 19:25:55,247 - __main__ - INFO - [2025-10-23T19:25:53.635699] unknown | FetchCatalog | 11 records | SUCCESS | 1612ms
+2025-10-23 19:25:55,249 - __main__ - INFO - [2025-10-23T19:25:53.646099] unknown | FetchCatalog | 11 records | SUCCESS | 1603ms
+2025-10-23 19:25:58,434 - __main__ - INFO - [2025-10-23T19:25:56.660358] unknown | FetchCatalog | 11 records | SUCCESS | 1774ms
+2025-10-23 19:25:58,440 - __main__ - INFO - [2025-10-23T19:25:56.660865] unknown | FetchCatalog | 11 records | SUCCESS | 1779ms
+2025-10-23 19:25:58,897 - __main__ - INFO - [2025-10-23T19:25:57.108120] unknown | FetchCatalog | 11 records | SUCCESS | 1789ms
+2025-10-23 19:26:06,114 - __main__ - INFO - [2025-10-23T19:26:04.474986] unknown | FetchCatalog | 11 records | SUCCESS | 1639ms
+2025-10-23 19:26:18,813 - __main__ - INFO - [2025-10-23T19:26:17.051876] unknown | FetchCatalog | 11 records | SUCCESS | 1761ms
+2025-10-23 19:26:18,815 - __main__ - INFO - [2025-10-23T19:26:17.051773] unknown | FetchCatalog | 11 records | SUCCESS | 1764ms
+2025-10-23 19:26:18,817 - __main__ - INFO - [2025-10-23T19:26:17.051184] unknown | FetchCatalog | 11 records | SUCCESS | 1765ms
+2025-10-23 19:26:21,984 - __main__ - INFO - [2025-10-23T19:26:20.226868] unknown | FetchCatalog | 11 records | SUCCESS | 1757ms
+2025-10-23 19:26:21,986 - __main__ - INFO - [2025-10-23T19:26:20.227267] unknown | FetchCatalog | 11 records | SUCCESS | 1758ms
+2025-10-23 19:26:21,987 - __main__ - INFO - [2025-10-23T19:26:20.227543] unknown | FetchCatalog | 11 records | SUCCESS | 1759ms
+2025-10-23 19:26:29,904 - __main__ - INFO - [2025-10-23T19:26:28.280720] unknown | FetchCatalog | 11 records | SUCCESS | 1623ms
+2025-10-23 19:41:31,558 - __main__ - INFO - [2025-10-23T19:41:27.468907] unknown | FetchCatalog | 11 records | SUCCESS | 4088ms
+2025-10-23 19:41:31,564 - __main__ - INFO - [2025-10-23T19:41:27.480747] unknown | FetchCatalog | 11 records | SUCCESS | 4084ms
+2025-10-23 19:41:32,024 - __main__ - INFO - [2025-10-23T19:41:28.084055] unknown | FetchCatalog | 11 records | SUCCESS | 3940ms
+2025-10-23 19:41:55,705 - __main__ - INFO - [2025-10-23T19:41:53.964093] unknown | FetchCatalog | 11 records | SUCCESS | 1738ms
+2025-10-23 19:44:23,517 - __main__ - INFO - [2025-10-23T19:44:21.810601] unknown | FetchCatalog | 11 records | SUCCESS | 1706ms
+2025-10-23 19:44:38,510 - __main__ - INFO - [2025-10-23T19:44:36.718962] unknown | FetchCatalog | 11 records | SUCCESS | 1791ms
+2025-10-23 19:45:05,057 - __main__ - INFO - [2025-10-23T19:45:03.418669] unknown | FetchCatalog | 11 records | SUCCESS | 1639ms
+2025-10-23 19:56:40,572 - __main__ - INFO - [2025-10-23T19:56:36.691365] unknown | FetchCatalog | 11 records | SUCCESS | 3880ms
+2025-10-23 19:56:40,578 - __main__ - INFO - [2025-10-23T19:56:36.690814] unknown | FetchCatalog | 11 records | SUCCESS | 3888ms
+2025-10-23 19:56:40,581 - __main__ - INFO - [2025-10-23T19:56:36.688511] unknown | FetchCatalog | 11 records | SUCCESS | 3893ms
+2025-10-23 20:11:49,857 - __main__ - INFO - [2025-10-23T20:11:45.931742] unknown | FetchCatalog | 11 records | SUCCESS | 3926ms
+2025-10-23 20:11:49,863 - __main__ - INFO - [2025-10-23T20:11:45.926509] unknown | FetchCatalog | 11 records | SUCCESS | 3936ms
+2025-10-23 20:11:49,865 - __main__ - INFO - [2025-10-23T20:11:45.931090] unknown | FetchCatalog | 11 records | SUCCESS | 3934ms
+2025-10-23 20:26:58,662 - __main__ - INFO - [2025-10-23T20:26:54.834195] unknown | FetchCatalog | 11 records | SUCCESS | 3827ms
+2025-10-23 20:26:59,148 - __main__ - INFO - [2025-10-23T20:26:55.435413] unknown | FetchCatalog | 11 records | SUCCESS | 3712ms
+2025-10-23 20:26:59,169 - __main__ - INFO - [2025-10-23T20:26:55.468038] unknown | FetchCatalog | 11 records | SUCCESS | 3701ms
+2025-10-23 20:32:35,187 - __main__ - INFO - [2025-10-23T20:32:31.134321] unknown | FetchCatalog | 11 records | SUCCESS | 4052ms
+2025-10-23 20:32:35,191 - __main__ - INFO - [2025-10-23T20:32:31.100719] unknown | FetchCatalog | 11 records | SUCCESS | 4090ms
+2025-10-23 20:32:35,192 - __main__ - INFO - [2025-10-23T20:32:31.097349] unknown | FetchCatalog | 11 records | SUCCESS | 4095ms
+2025-10-23 20:32:38,353 - __main__ - INFO - [2025-10-23T20:32:36.732819] unknown | FetchCatalog | 11 records | SUCCESS | 1621ms
+2025-10-23 20:32:38,355 - __main__ - INFO - [2025-10-23T20:32:36.732631] unknown | FetchCatalog | 11 records | SUCCESS | 1622ms
+2025-10-23 20:32:38,356 - __main__ - INFO - [2025-10-23T20:32:36.733058] unknown | FetchCatalog | 11 records | SUCCESS | 1623ms
+2025-10-23 20:32:45,015 - __main__ - INFO - [2025-10-23T20:32:43.302257] unknown | FetchCatalog | 11 records | SUCCESS | 1713ms
+2025-10-23 20:32:45,019 - __main__ - INFO - [2025-10-23T20:32:43.302183] unknown | FetchCatalog | 11 records | SUCCESS | 1716ms
+2025-10-23 20:32:45,020 - __main__ - INFO - [2025-10-23T20:32:43.301740] unknown | FetchCatalog | 11 records | SUCCESS | 1718ms
+2025-10-23 20:32:48,174 - __main__ - INFO - [2025-10-23T20:32:46.560521] unknown | FetchCatalog | 11 records | SUCCESS | 1614ms
+2025-10-23 20:32:48,176 - __main__ - INFO - [2025-10-23T20:32:46.560432] unknown | FetchCatalog | 11 records | SUCCESS | 1616ms
+2025-10-23 20:32:48,180 - __main__ - INFO - [2025-10-23T20:32:46.560106] unknown | FetchCatalog | 11 records | SUCCESS | 1620ms
+2025-10-23 20:33:11,352 - __main__ - INFO - [2025-10-23T20:33:09.557991] unknown | FetchCatalog | 11 records | SUCCESS | 1793ms
+2025-10-23 20:33:11,357 - __main__ - INFO - [2025-10-23T20:33:09.558540] unknown | FetchCatalog | 11 records | SUCCESS | 1798ms
+2025-10-23 20:33:11,359 - __main__ - INFO - [2025-10-23T20:33:09.558640] unknown | FetchCatalog | 11 records | SUCCESS | 1800ms
+2025-10-23 20:33:14,396 - __main__ - INFO - [2025-10-23T20:33:12.786205] unknown | FetchCatalog | 11 records | SUCCESS | 1610ms
+2025-10-23 20:33:14,398 - __main__ - INFO - [2025-10-23T20:33:12.785982] unknown | FetchCatalog | 11 records | SUCCESS | 1612ms
+2025-10-23 20:33:14,399 - __main__ - INFO - [2025-10-23T20:33:12.785628] unknown | FetchCatalog | 11 records | SUCCESS | 1613ms
+2025-10-23 20:33:43,925 - __main__ - INFO - [2025-10-23T20:33:42.233519] unknown | FetchCatalog | 11 records | SUCCESS | 1691ms
+2025-10-23 20:33:43,927 - __main__ - INFO - [2025-10-23T20:33:42.232815] unknown | FetchCatalog | 11 records | SUCCESS | 1694ms
+2025-10-23 20:33:43,928 - __main__ - INFO - [2025-10-23T20:33:42.233653] unknown | FetchCatalog | 11 records | SUCCESS | 1695ms
+2025-10-23 20:33:44,782 - __main__ - ERROR - NEON_DB_URL environment variable is required
+2025-10-23 20:33:47,030 - __main__ - INFO - [2025-10-23T20:33:45.425312] unknown | FetchCatalog | 11 records | SUCCESS | 1605ms
+2025-10-23 20:33:47,037 - __main__ - INFO - [2025-10-23T20:33:45.425019] unknown | FetchCatalog | 11 records | SUCCESS | 1612ms
+2025-10-23 20:33:47,039 - __main__ - INFO - [2025-10-23T20:33:45.425406] unknown | FetchCatalog | 11 records | SUCCESS | 1614ms
+2025-10-23 20:34:15,734 - __main__ - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 20:34:15,734 - __main__ - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 20:34:15,734 - __main__ - INFO - 🌐 Server port: 8080
+2025-10-23 20:34:15,734 - __main__ - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 20:34:15,734 - __main__ - INFO - 🔗 Starting A2A server on port 8090...
+2025-10-23 20:34:15,769 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /Users/bhanud/Desktop/SupplierDB/supplier_agent/main.py:19> exception=SystemExit(1)>
+Traceback (most recent call last):
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 164, in startup
+    server = await loop.create_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1536, in create_server
+    raise OSError(err.errno, msg) from None
+OSError: [Errno 48] error while attempting to bind on address ('0.0.0.0', 8090): address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 608, in run_forever
+    self._run_once()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1936, in _run_once
+    handle._run()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/bhanud/Desktop/SupplierDB/supplier_agent/main.py", line 49, in main
+    await asyncio.gather(
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 608, in run_forever
+    self._run_once()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1936, in _run_once
+    handle._run()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/bhanud/Desktop/SupplierDB/supplier_agent/a2a_server.py", line 136, in run_a2a_server
+    await server.serve()
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 71, in serve
+    await self._serve(sockets)
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 86, in _serve
+    await self.startup(sockets=sockets)
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 174, in startup
+    sys.exit(1)
+SystemExit: 1
+2025-10-23 20:35:33,348 - __main__ - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 20:35:33,348 - __main__ - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 20:35:33,348 - __main__ - INFO - 🌐 Server port: 8080
+2025-10-23 20:35:33,348 - __main__ - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 20:35:33,348 - __main__ - INFO - 🔗 Starting A2A server on port 8090...
+2025-10-23 20:35:36,817 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
+2025-10-23 20:35:36,818 - supplier_agent.acp_server - INFO - ACP Agent started successfully
+2025-10-23 20:35:37,047 - supplier_agent.acp_server - INFO - Database connections closed
+2025-10-23 20:35:37,063 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /Users/bhanud/Desktop/SupplierDB/supplier_agent/main.py:19> exception=SystemExit(1)>
+Traceback (most recent call last):
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 164, in startup
+    server = await loop.create_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1536, in create_server
+    raise OSError(err.errno, msg) from None
+OSError: [Errno 48] error while attempting to bind on address ('0.0.0.0', 8080): address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 608, in run_forever
+    self._run_once()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1936, in _run_once
+    handle._run()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/bhanud/Desktop/SupplierDB/supplier_agent/main.py", line 49, in main
+    await asyncio.gather(
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 608, in run_forever
+    self._run_once()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/base_events.py", line 1936, in _run_once
+    handle._run()
+  File "/opt/homebrew/Cellar/python@3.11/3.11.14/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 71, in serve
+    await self._serve(sockets)
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 86, in _serve
+    await self.startup(sockets=sockets)
+  File "/Users/bhanud/Desktop/SupplierDB/venv/lib/python3.11/site-packages/uvicorn/server.py", line 174, in startup
+    sys.exit(1)
+SystemExit: 1
+2025-10-23 20:37:11,803 - __main__ - INFO - 🚀 Starting Supplier ACP Agent...
+2025-10-23 20:37:11,803 - __main__ - INFO - 📊 Database URL: postgresql://neondb_owner:npg_...
+2025-10-23 20:37:11,803 - __main__ - INFO - 🌐 Server port: 8080
+2025-10-23 20:37:11,803 - __main__ - INFO - ⏱️  Cache TTL: 60 seconds
+2025-10-23 20:37:11,803 - __main__ - INFO - 🔗 Starting A2A server on port 8090...
+2025-10-23 20:37:15,354 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
+2025-10-23 20:37:15,358 - supplier_agent.acp_server - INFO - ACP Agent started successfully
+2025-10-23 20:42:21,514 - agent_activity - INFO - Request completed
+2025-10-23 20:42:23,665 - agent_activity - INFO - Request completed
+2025-10-23 20:43:37,150 - agent_activity - INFO - Request completed
+2025-10-23 20:43:49,114 - agent_activity - INFO - Request completed
+2025-10-23 20:46:14,316 - agent_activity - INFO - Request completed
+2025-10-23 20:46:56,917 - agent_activity - INFO - Request completed
+2025-10-23 20:47:20,695 - agent_activity - INFO - Request completed
+2025-10-23 20:47:21,162 - agent_activity - INFO - Request completed
+2025-10-23 20:47:22,901 - supplier_agent.a2a_server - INFO - [2025-10-23T20:47:21.225099] unknown | FetchCatalog | 11 records | SUCCESS | 1676ms
+2025-10-23 20:48:47,053 - agent_activity - INFO - Request completed
+2025-10-23 20:48:47,057 - agent_activity - INFO - Request completed
+2025-10-23 20:48:47,057 - agent_activity - INFO - Request completed
+2025-10-23 20:48:47,987 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,160 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,169 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,365 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,622 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,627 - agent_activity - INFO - Request completed
+2025-10-23 20:48:49,830 - agent_activity - INFO - Request completed
+2025-10-23 20:48:50,084 - agent_activity - INFO - Request completed
+2025-10-23 20:48:50,088 - agent_activity - INFO - Request completed
+2025-10-23 20:48:51,225 - supplier_agent.a2a_server - INFO - [2025-10-23T20:48:49.847620] unknown | FetchCatalog | 11 records | SUCCESS | 1377ms
+2025-10-23 20:48:52,401 - supplier_agent.a2a_server - INFO - [2025-10-23T20:48:50.099348] unknown | FetchCatalog | 11 records | SUCCESS | 2302ms
+2025-10-23 20:48:52,402 - supplier_agent.a2a_server - INFO - [2025-10-23T20:48:50.099748] unknown | FetchCatalog | 11 records | SUCCESS | 2303ms
+2025-10-23 20:49:04,992 - agent_activity - INFO - Request completed
+2025-10-23 20:49:22,813 - agent_activity - INFO - Request completed
+2025-10-23 20:49:29,300 - agent_activity - INFO - Request completed
+2025-10-23 20:49:46,214 - agent_activity - INFO - Request completed
+2025-10-23 20:49:58,347 - agent_activity - INFO - Request completed
+2025-10-23 20:51:55,084 - supplier_agent.a2a_server - INFO - [2025-10-23T20:51:53.410249] unknown | FetchCatalog | 11 records | SUCCESS | 1673ms
+2025-10-23 21:02:53,604 - agent_activity - INFO - Request completed
+2025-10-23 21:02:53,605 - agent_activity - INFO - Request completed
+2025-10-23 21:02:53,630 - agent_activity - INFO - Request completed
+2025-10-23 21:02:56,464 - agent_activity - INFO - Request completed
+2025-10-23 21:02:56,637 - agent_activity - INFO - Request completed
+2025-10-23 21:02:56,638 - agent_activity - INFO - Request completed
+2025-10-23 21:02:57,937 - agent_activity - INFO - Request completed
+2025-10-23 21:02:58,202 - agent_activity - INFO - Request completed
+2025-10-23 21:02:58,202 - agent_activity - INFO - Request completed
+2025-10-23 21:02:58,451 - agent_activity - INFO - Request completed
+2025-10-23 21:02:58,726 - agent_activity - INFO - Request completed
+2025-10-23 21:02:58,727 - agent_activity - INFO - Request completed
+2025-10-23 21:03:00,638 - supplier_agent.a2a_server - INFO - [2025-10-23T21:02:58.488047] unknown | FetchCatalog | 11 records | SUCCESS | 2149ms
+2025-10-23 21:03:00,669 - agent_activity - INFO - Request completed
+2025-10-23 21:03:00,839 - supplier_agent.a2a_server - INFO - [2025-10-23T21:02:58.753962] unknown | FetchCatalog | 11 records | SUCCESS | 2085ms
+2025-10-23 21:03:00,842 - supplier_agent.a2a_server - INFO - [2025-10-23T21:02:58.753710] unknown | FetchCatalog | 11 records | SUCCESS | 2089ms
+2025-10-23 21:03:00,855 - agent_activity - INFO - Request completed
+2025-10-23 21:03:00,856 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,137 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,322 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,325 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,606 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,793 - agent_activity - INFO - Request completed
+2025-10-23 21:03:01,795 - agent_activity - INFO - Request completed
+2025-10-23 21:03:02,075 - agent_activity - INFO - Request completed
+2025-10-23 21:03:02,263 - agent_activity - INFO - Request completed
+2025-10-23 21:03:02,267 - agent_activity - INFO - Request completed
+2025-10-23 21:03:03,526 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:02.095079] unknown | FetchCatalog | 11 records | SUCCESS | 1431ms
+2025-10-23 21:03:03,681 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:02.278843] unknown | FetchCatalog | 11 records | SUCCESS | 1402ms
+2025-10-23 21:03:03,685 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:02.279151] unknown | FetchCatalog | 11 records | SUCCESS | 1406ms
+2025-10-23 21:03:21,905 - agent_activity - INFO - Request completed
+2025-10-23 21:03:21,925 - agent_activity - INFO - Request completed
+2025-10-23 21:03:21,930 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,373 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,388 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,396 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,839 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,855 - agent_activity - INFO - Request completed
+2025-10-23 21:03:22,863 - agent_activity - INFO - Request completed
+2025-10-23 21:03:23,310 - agent_activity - INFO - Request completed
+2025-10-23 21:03:23,329 - agent_activity - INFO - Request completed
+2025-10-23 21:03:23,338 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,212 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:23.470169] unknown | FetchCatalog | 11 records | SUCCESS | 1741ms
+2025-10-23 21:03:25,214 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:23.470484] unknown | FetchCatalog | 11 records | SUCCESS | 1744ms
+2025-10-23 21:03:25,217 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:23.470703] unknown | FetchCatalog | 11 records | SUCCESS | 1746ms
+2025-10-23 21:03:25,225 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,226 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,228 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,693 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,694 - agent_activity - INFO - Request completed
+2025-10-23 21:03:25,694 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,202 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,203 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,204 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,745 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,746 - agent_activity - INFO - Request completed
+2025-10-23 21:03:26,746 - agent_activity - INFO - Request completed
+2025-10-23 21:03:28,255 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:26.757938] unknown | FetchCatalog | 11 records | SUCCESS | 1497ms
+2025-10-23 21:03:28,257 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:26.758313] unknown | FetchCatalog | 11 records | SUCCESS | 1498ms
+2025-10-23 21:03:28,258 - supplier_agent.a2a_server - INFO - [2025-10-23T21:03:26.758132] unknown | FetchCatalog | 11 records | SUCCESS | 1500ms
+2025-10-23 21:04:08,225 - agent_activity - INFO - Request completed
+2025-10-23 21:04:08,228 - agent_activity - INFO - Request completed
+2025-10-23 21:04:08,251 - agent_activity - INFO - Request completed
+2025-10-23 21:04:08,692 - agent_activity - INFO - Request completed
+2025-10-23 21:04:08,692 - agent_activity - INFO - Request completed
+2025-10-23 21:04:08,714 - agent_activity - INFO - Request completed
+2025-10-23 21:04:09,863 - agent_activity - INFO - Request completed
+2025-10-23 21:04:09,864 - agent_activity - INFO - Request completed
+2025-10-23 21:04:09,883 - agent_activity - INFO - Request completed
+2025-10-23 21:04:10,331 - agent_activity - INFO - Request completed
+2025-10-23 21:04:10,332 - agent_activity - INFO - Request completed
+2025-10-23 21:04:10,346 - agent_activity - INFO - Request completed
+2025-10-23 21:04:11,766 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:10.373791] unknown | FetchCatalog | 11 records | SUCCESS | 1392ms
+2025-10-23 21:04:11,769 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:10.375800] unknown | FetchCatalog | 11 records | SUCCESS | 1393ms
+2025-10-23 21:04:11,771 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:10.373588] unknown | FetchCatalog | 11 records | SUCCESS | 1397ms
+2025-10-23 21:04:11,779 - agent_activity - INFO - Request completed
+2025-10-23 21:04:11,780 - agent_activity - INFO - Request completed
+2025-10-23 21:04:11,788 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,267 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,269 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,269 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,793 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,794 - agent_activity - INFO - Request completed
+2025-10-23 21:04:12,794 - agent_activity - INFO - Request completed
+2025-10-23 21:04:13,263 - agent_activity - INFO - Request completed
+2025-10-23 21:04:13,264 - agent_activity - INFO - Request completed
+2025-10-23 21:04:13,264 - agent_activity - INFO - Request completed
+2025-10-23 21:04:14,670 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:13.281124] unknown | FetchCatalog | 11 records | SUCCESS | 1388ms
+2025-10-23 21:04:14,675 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:13.280852] unknown | FetchCatalog | 11 records | SUCCESS | 1394ms
+2025-10-23 21:04:14,677 - supplier_agent.a2a_server - INFO - [2025-10-23T21:04:13.280589] unknown | FetchCatalog | 11 records | SUCCESS | 1396ms
+2025-10-23 21:04:42,172 - agent_activity - INFO - Request completed
+2025-10-23 21:04:42,173 - agent_activity - INFO - Request completed
+2025-10-23 21:04:42,199 - agent_activity - INFO - Request completed
+2025-10-23 21:04:42,643 - agent_activity - INFO - Request completed
+2025-10-23 21:04:42,646 - agent_activity - INFO - Request completed
+2025-10-23 21:04:42,672 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,234 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,234 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,235 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,700 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,701 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,701 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,732 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,733 - agent_activity - INFO - Request completed
+2025-10-23 21:04:43,735 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,216 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,221 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,224 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,744 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,745 - agent_activity - INFO - Request completed
+2025-10-23 21:04:44,746 - agent_activity - INFO - Request completed
+2025-10-23 21:04:45,358 - agent_activity - INFO - Request completed
+2025-10-23 21:04:45,359 - agent_activity - INFO - Request completed
+2025-10-23 21:04:45,360 - agent_activity - INFO - Request completed
+2025-10-23 21:05:11,866 - agent_activity - INFO - Request completed
+2025-10-23 21:05:11,871 - agent_activity - INFO - Request completed
+2025-10-23 21:05:11,892 - agent_activity - INFO - Request completed
+2025-10-23 21:05:12,395 - agent_activity - INFO - Request completed
+2025-10-23 21:05:12,417 - agent_activity - INFO - Request completed
+2025-10-23 21:05:12,417 - agent_activity - INFO - Request completed
+2025-10-23 21:05:13,644 - agent_activity - INFO - Request completed
+2025-10-23 21:05:13,646 - agent_activity - INFO - Request completed
+2025-10-23 21:05:13,646 - agent_activity - INFO - Request completed
+2025-10-23 21:05:14,117 - agent_activity - INFO - Request completed
+2025-10-23 21:05:14,121 - agent_activity - INFO - Request completed
+2025-10-23 21:05:14,121 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,139 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,141 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,141 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,607 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,608 - agent_activity - INFO - Request completed
+2025-10-23 21:05:18,608 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,079 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,080 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,080 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,551 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,551 - agent_activity - INFO - Request completed
+2025-10-23 21:05:19,552 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,253 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,255 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,279 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,722 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,722 - agent_activity - INFO - Request completed
+2025-10-23 21:06:02,742 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,285 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,285 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,286 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,828 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,829 - agent_activity - INFO - Request completed
+2025-10-23 21:06:03,829 - agent_activity - INFO - Request completed
+2025-10-23 21:06:05,771 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:03.877917] unknown | FetchCatalog | 11 records | SUCCESS | 1893ms
+2025-10-23 21:06:05,777 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:03.878298] unknown | FetchCatalog | 11 records | SUCCESS | 1898ms
+2025-10-23 21:06:05,780 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:03.878136] unknown | FetchCatalog | 11 records | SUCCESS | 1901ms
+2025-10-23 21:06:05,789 - agent_activity - INFO - Request completed
+2025-10-23 21:06:05,790 - agent_activity - INFO - Request completed
+2025-10-23 21:06:05,791 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,360 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,361 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,361 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,828 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,829 - agent_activity - INFO - Request completed
+2025-10-23 21:06:06,829 - agent_activity - INFO - Request completed
+2025-10-23 21:06:07,409 - agent_activity - INFO - Request completed
+2025-10-23 21:06:07,410 - agent_activity - INFO - Request completed
+2025-10-23 21:06:07,410 - agent_activity - INFO - Request completed
+2025-10-23 21:06:09,073 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:07.425909] unknown | FetchCatalog | 11 records | SUCCESS | 1647ms
+2025-10-23 21:06:09,077 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:07.425433] unknown | FetchCatalog | 11 records | SUCCESS | 1652ms
+2025-10-23 21:06:09,082 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:07.426047] unknown | FetchCatalog | 11 records | SUCCESS | 1656ms
+2025-10-23 21:06:22,908 - agent_activity - INFO - Request completed
+2025-10-23 21:06:22,917 - agent_activity - INFO - Request completed
+2025-10-23 21:06:22,917 - agent_activity - INFO - Request completed
+2025-10-23 21:06:23,378 - agent_activity - INFO - Request completed
+2025-10-23 21:06:23,384 - agent_activity - INFO - Request completed
+2025-10-23 21:06:23,384 - agent_activity - INFO - Request completed
+2025-10-23 21:06:24,539 - agent_activity - INFO - Request completed
+2025-10-23 21:06:24,555 - agent_activity - INFO - Request completed
+2025-10-23 21:06:24,556 - agent_activity - INFO - Request completed
+2025-10-23 21:06:25,004 - agent_activity - INFO - Request completed
+2025-10-23 21:06:25,019 - agent_activity - INFO - Request completed
+2025-10-23 21:06:25,020 - agent_activity - INFO - Request completed
+2025-10-23 21:06:26,688 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:25.049828] unknown | FetchCatalog | 11 records | SUCCESS | 1639ms
+2025-10-23 21:06:26,692 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:25.050477] unknown | FetchCatalog | 11 records | SUCCESS | 1641ms
+2025-10-23 21:06:26,694 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:25.043866] unknown | FetchCatalog | 11 records | SUCCESS | 1650ms
+2025-10-23 21:06:26,705 - agent_activity - INFO - Request completed
+2025-10-23 21:06:26,706 - agent_activity - INFO - Request completed
+2025-10-23 21:06:26,714 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,173 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,174 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,178 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,647 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,648 - agent_activity - INFO - Request completed
+2025-10-23 21:06:27,649 - agent_activity - INFO - Request completed
+2025-10-23 21:06:28,169 - agent_activity - INFO - Request completed
+2025-10-23 21:06:28,169 - agent_activity - INFO - Request completed
+2025-10-23 21:06:28,170 - agent_activity - INFO - Request completed
+2025-10-23 21:06:29,629 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:28.182891] unknown | FetchCatalog | 11 records | SUCCESS | 1446ms
+2025-10-23 21:06:29,633 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:28.183564] unknown | FetchCatalog | 11 records | SUCCESS | 1449ms
+2025-10-23 21:06:29,634 - supplier_agent.a2a_server - INFO - [2025-10-23T21:06:28.183882] unknown | FetchCatalog | 11 records | SUCCESS | 1450ms
+2025-10-23 21:08:34,954 - agent_activity - INFO - Request completed
+2025-10-23 21:08:36,841 - agent_activity - INFO - Request completed
+2025-10-23 21:08:38,328 - agent_activity - INFO - Request completed
+2025-10-23 21:08:38,824 - agent_activity - INFO - Request completed
+2025-10-23 21:08:41,905 - agent_activity - INFO - Request completed
+2025-10-23 21:09:36,022 - supplier_agent.a2a_server - INFO - [2025-10-23T21:09:34.158874] unknown | FetchCatalog | 11 records | SUCCESS | 1862ms
+2025-10-23 21:09:50,945 - supplier_agent.a2a_server - INFO - [2025-10-23T21:09:49.037255] unknown | FetchCatalog | 11 records | SUCCESS | 1908ms
+2025-10-23 21:15:56,425 - agent_activity - INFO - Request completed
+2025-10-23 21:16:07,680 - agent_activity - INFO - Request completed
+2025-10-23 21:16:16,883 - agent_activity - INFO - Request completed
+2025-10-23 21:16:29,122 - agent_activity - INFO - Request completed
+2025-10-23 21:18:13,854 - agent_activity - INFO - Request completed
+2025-10-23 21:18:32,129 - supplier_agent.a2a_server - INFO - [2025-10-23T21:18:30.482934] unknown | FetchCatalog | 11 records | SUCCESS | 1645ms
+2025-10-23 21:21:29,567 - agent_activity - INFO - Request completed
+2025-10-23 21:21:29,570 - agent_activity - INFO - Request completed
+2025-10-23 21:21:29,570 - agent_activity - INFO - Request completed
+2025-10-23 21:21:31,443 - agent_activity - INFO - Request completed
+2025-10-23 21:21:31,708 - agent_activity - INFO - Request completed
+2025-10-23 21:21:31,741 - agent_activity - INFO - Request completed
+2025-10-23 21:21:32,861 - agent_activity - INFO - Request completed
+2025-10-23 21:21:33,095 - agent_activity - INFO - Request completed
+2025-10-23 21:21:33,158 - agent_activity - INFO - Request completed
+2025-10-23 21:21:33,327 - agent_activity - INFO - Request completed
+2025-10-23 21:21:33,554 - agent_activity - INFO - Request completed
+2025-10-23 21:21:33,629 - agent_activity - INFO - Request completed
+2025-10-23 21:21:35,415 - supplier_agent.a2a_server - INFO - [2025-10-23T21:21:33.343581] unknown | FetchCatalog | 11 records | SUCCESS | 2071ms
+2025-10-23 21:21:35,632 - supplier_agent.a2a_server - INFO - [2025-10-23T21:21:33.577812] unknown | FetchCatalog | 11 records | SUCCESS | 2054ms
+2025-10-23 21:21:35,732 - supplier_agent.a2a_server - INFO - [2025-10-23T21:21:33.639650] unknown | FetchCatalog | 11 records | SUCCESS | 2093ms
+2025-10-23 21:23:04,747 - agent_activity - INFO - Request completed
+2025-10-23 21:23:05,212 - agent_activity - INFO - Request completed
+2025-10-23 21:23:06,621 - agent_activity - INFO - Request completed
+2025-10-23 21:23:07,086 - agent_activity - INFO - Request completed
+2025-10-23 21:23:08,504 - supplier_agent.a2a_server - INFO - [2025-10-23T21:23:07.113188] unknown | FetchCatalog | 11 records | SUCCESS | 1391ms
+2025-10-23 21:23:08,524 - agent_activity - INFO - Request completed
+2025-10-23 21:23:08,991 - agent_activity - INFO - Request completed
+2025-10-23 21:23:09,458 - agent_activity - INFO - Request completed
+2025-10-23 21:23:09,922 - agent_activity - INFO - Request completed
+2025-10-23 21:23:11,401 - supplier_agent.a2a_server - INFO - [2025-10-23T21:23:09.933938] unknown | FetchCatalog | 11 records | SUCCESS | 1467ms
+2025-10-23 21:36:35,483 - agent_activity - INFO - Request completed
+2025-10-23 21:36:35,679 - agent_activity - INFO - Request completed
+2025-10-23 21:36:38,075 - agent_activity - INFO - Request completed
+2025-10-23 21:36:38,077 - agent_activity - INFO - Request completed
+2025-10-23 21:36:39,587 - agent_activity - INFO - Request completed
+2025-10-23 21:36:39,590 - agent_activity - INFO - Request completed
+2025-10-23 21:36:40,198 - agent_activity - INFO - Request completed
+2025-10-23 21:36:40,202 - agent_activity - INFO - Request completed
+2025-10-23 21:36:42,553 - supplier_agent.a2a_server - INFO - [2025-10-23T21:36:40.226095] unknown | FetchCatalog | 11 records | SUCCESS | 2327ms
+2025-10-23 21:36:42,559 - supplier_agent.a2a_server - INFO - [2025-10-23T21:36:40.226415] unknown | FetchCatalog | 11 records | SUCCESS | 2332ms
+2025-10-23 21:37:49,456 - agent_activity - INFO - Request completed
+2025-10-23 21:38:11,461 - agent_activity - INFO - Request completed
+2025-10-23 21:38:11,939 - agent_activity - INFO - Request completed
+2025-10-23 21:38:13,114 - agent_activity - INFO - Request completed
+2025-10-23 21:38:13,591 - agent_activity - INFO - Request completed
+2025-10-23 21:38:15,125 - supplier_agent.a2a_server - INFO - [2025-10-23T21:38:13.616997] unknown | FetchCatalog | 11 records | SUCCESS | 1507ms
+2025-10-23 21:38:26,491 - supplier_agent.a2a_server - INFO - [2025-10-23T21:38:24.626652] unknown | FetchCatalog | 11 records | SUCCESS | 1864ms
+2025-10-23 21:38:33,827 - agent_activity - INFO - Request completed
+2025-10-23 21:38:38,995 - agent_activity - INFO - Request completed
+2025-10-23 21:50:23,010 - agent_activity - INFO - Request completed
+2025-10-23 21:50:31,904 - agent_activity - INFO - Request completed
+2025-10-23 21:50:43,180 - agent_activity - INFO - Request completed
+2025-10-23 21:50:53,113 - supplier_agent.a2a_server - INFO - [2025-10-23T21:50:50.365271] unknown | FetchCatalog | 11 records | SUCCESS | 2747ms
+2025-10-23 21:51:42,602 - agent_activity - INFO - Request completed
+2025-10-23 21:51:42,606 - agent_activity - INFO - Request completed
+2025-10-23 21:51:43,080 - agent_activity - INFO - Request completed
+2025-10-23 21:51:44,669 - agent_activity - INFO - Request completed
+2025-10-23 21:51:44,931 - agent_activity - INFO - Request completed
+2025-10-23 21:51:45,158 - agent_activity - INFO - Request completed
+2025-10-23 21:51:45,401 - agent_activity - INFO - Request completed
+2025-10-23 21:51:46,055 - agent_activity - INFO - Request completed
+2025-10-23 21:51:46,794 - supplier_agent.a2a_server - INFO - [2025-10-23T21:51:45.183719] unknown | FetchCatalog | 11 records | SUCCESS | 1610ms
+2025-10-23 21:51:48,404 - supplier_agent.a2a_server - INFO - [2025-10-23T21:51:46.074883] unknown | FetchCatalog | 11 records | SUCCESS | 2329ms
+2025-10-23 21:51:56,193 - agent_activity - INFO - Request completed
+2025-10-23 21:53:15,167 - agent_activity - INFO - Request completed
+2025-10-23 21:53:15,812 - agent_activity - INFO - Request completed
+2025-10-23 21:53:17,395 - agent_activity - INFO - Request completed
+2025-10-23 21:53:17,906 - agent_activity - INFO - Request completed
+2025-10-23 21:53:19,471 - supplier_agent.a2a_server - INFO - [2025-10-23T21:53:17.935017] unknown | FetchCatalog | 11 records | SUCCESS | 1536ms
+2025-10-23 21:55:05,535 - supplier_agent.a2a_server - INFO - [2025-10-23T21:55:03.844336] unknown | FetchCatalog | 11 records | SUCCESS | 1690ms
+2025-10-23 21:55:13,999 - supplier_agent.a2a_server - INFO - [2025-10-23T21:55:12.271821] unknown | FetchCatalog | 11 records | SUCCESS | 1727ms
+2025-10-23 21:55:24,749 - agent_activity - INFO - Request completed

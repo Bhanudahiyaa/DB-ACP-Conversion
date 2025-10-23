@@ -53,3 +53,29 @@
 [2025-10-23 16:20:08,599] INFO | Products feed fetched: 10 records
 [2025-10-23 16:20:08,605] INFO | Upserted 10 records into products
 [2025-10-23 16:20:08,610] INFO | Inserted records into Retailer DB, total: 1190
+[2025-10-23 18:53:02,490] INFO | [Retailer → Supplier] /.well-known/acp | 1 records | OK | 18ms
+[2025-10-23 18:53:02,491] INFO | Discovered supplier at http://localhost:8080: {'acp_version': '1.0', 'agent': 'supplier', 'resources_endpoint': '/acp/schema', 'feed_endpoint': '/acp/feed', 'description': 'Supplier Agent exposing Neon DB data via ACP'}
+[2025-10-23 18:53:02,491] INFO | Discovery success: {'acp_version': '1.0', 'agent': 'supplier', 'resources_endpoint': '/acp/schema', 'feed_endpoint': '/acp/feed', 'description': 'Supplier Agent exposing Neon DB data via ACP'}
+[2025-10-23 18:53:02,952] INFO | [Retailer → Supplier] /acp/schema | 2 records | OK | 460ms
+[2025-10-23 18:53:04,398] INFO | [Retailer → Supplier] /acp/schema/products | 1 records | OK | 1445ms
+[2025-10-23 18:53:04,868] INFO | [Retailer → Supplier] /acp/schema/variants | 1 records | OK | 469ms
+[2025-10-23 18:53:04,868] INFO | Fetched schema with 2 tables from http://localhost:8080
+[2025-10-23 18:53:04,868] INFO | Schema fetched: ['products', 'variants']
+[2025-10-23 18:53:06,815] INFO | [Retailer → Supplier] /acp/feed/products | 10 records | OK | 1947ms
+[2025-10-23 18:53:06,815] INFO | Fetched 10 records from products feed
+[2025-10-23 18:53:06,816] INFO | Products feed fetched: 10 records
+[2025-10-23 18:53:06,821] INFO | Upserted 10 records into products
+[2025-10-23 18:53:06,827] INFO | Inserted records into Retailer DB, total: 2180
+[2025-10-23 21:08:34,956] INFO | [Retailer → Supplier] /.well-known/acp | 1 records | OK | 50ms
+[2025-10-23 21:08:34,957] INFO | Discovered supplier at http://localhost:8080: {'acp_version': '1.0', 'agent': 'supplier', 'resources_endpoint': '/acp/schema', 'feed_endpoint': '/acp/feed', 'description': 'Supplier Agent exposing Neon DB data via ACP'}
+[2025-10-23 21:08:34,957] INFO | Discovery success: {'acp_version': '1.0', 'agent': 'supplier', 'resources_endpoint': '/acp/schema', 'feed_endpoint': '/acp/feed', 'description': 'Supplier Agent exposing Neon DB data via ACP'}
+[2025-10-23 21:08:36,844] INFO | [Retailer → Supplier] /acp/schema | 2 records | OK | 1886ms
+[2025-10-23 21:08:38,329] INFO | [Retailer → Supplier] /acp/schema/products | 1 records | OK | 1485ms
+[2025-10-23 21:08:38,825] INFO | [Retailer → Supplier] /acp/schema/variants | 1 records | OK | 495ms
+[2025-10-23 21:08:38,825] INFO | Fetched schema with 2 tables from http://localhost:8080
+[2025-10-23 21:08:38,826] INFO | Schema fetched: ['products', 'variants']
+[2025-10-23 21:08:41,909] INFO | [Retailer → Supplier] /acp/feed/products | 10 records | OK | 3083ms
+[2025-10-23 21:08:41,910] INFO | Fetched 10 records from products feed
+[2025-10-23 21:08:41,910] INFO | Products feed fetched: 10 records
+[2025-10-23 21:08:41,915] INFO | Upserted 10 records into products
+[2025-10-23 21:08:41,924] INFO | Inserted records into Retailer DB, total: 3598

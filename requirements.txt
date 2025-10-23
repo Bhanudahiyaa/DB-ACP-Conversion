@@ -6,3 +6,4 @@ python-dotenv
 requests
 starlette
 structlog
+a2a-sdk

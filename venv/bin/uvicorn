@@ -1,4 +1,4 @@
-#!/Users/bhanud/Desktop/SupplierDB/venv/bin/python3
+#!/Users/bhanud/Desktop/SupplierDB/venv/bin/python3.11
 import sys
 from uvicorn.main import main
 if __name__ == '__main__':

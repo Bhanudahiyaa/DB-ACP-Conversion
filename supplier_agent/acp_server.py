@@ -59,7 +59,8 @@ async def get_acp_info():
         "agent": "supplier",
         "resources_endpoint": "/acp/schema",
         "feed_endpoint": "/acp/feed",
-        "description": "Supplier Agent exposing Neon DB data via ACP"
+        "a2a_endpoint": "http://localhost:8090",
+        "description": "Supplier Agent exposing Neon DB data via ACP and A2A protocols"
     }
     timer.log_completion(record_count=0, status="OK", target="client")
     return result

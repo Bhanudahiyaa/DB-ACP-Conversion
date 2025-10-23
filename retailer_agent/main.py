@@ -10,6 +10,15 @@ from .logging_middleware import RetailerLoggingMiddleware
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Import A2A components (placeholders for now)
+try:
+    from .a2a_client import fetch_supplier_catalog
+    A2A_AVAILABLE = True
+    logger.info("A2A client loaded (placeholder)")
+except ImportError:
+    A2A_AVAILABLE = False
+    logger.warning("A2A client not available")
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Handle startup and shutdown events."""

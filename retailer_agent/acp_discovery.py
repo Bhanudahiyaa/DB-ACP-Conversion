@@ -16,6 +16,11 @@ def discover_supplier(base_url: str) -> Dict[str, Any]:
         latency_ms = int((time.time() - start_time) * 1000)
         logger.info(f"[Retailer → Supplier] /.well-known/acp | 1 records | OK | {latency_ms}ms")
         logger.info(f"Discovered supplier at {base_url}: {data}")
+
+        # Extract A2A endpoint if available
+        if "a2a_endpoint" in data:
+            logger.info(f"A2A endpoint discovered: {data['a2a_endpoint']}")
+
         return data
     except requests.RequestException as e:
         latency_ms = int((time.time() - start_time) * 1000)
