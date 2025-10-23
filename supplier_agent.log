@@ -23,3 +23,5 @@
 2025-10-23 04:35:15,127 - supplier_agent.main - INFO - ⏱️  Cache TTL: 60 seconds
 2025-10-23 04:35:18,939 - supplier_agent.supplier_db - INFO - Schema cache refreshed for 2 tables
 2025-10-23 04:35:18,939 - supplier_agent.acp_server - INFO - ACP Agent started successfully
+2025-10-23 15:22:07,186 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: 
+2025-10-23 15:22:07,296 - supplier_agent.acp_mapper - ERROR - Failed to convert table products to ACP format: 

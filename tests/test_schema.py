@@ -50,7 +50,9 @@ class TestDatabaseManager:
         tables = await db_manager.get_tables()
         
         assert tables == ["products", "variants"]
-        mock_conn.fetch.assert_called_once()
+        mock_conn.fetch.assert_called_once_with(
+            "SELECT table_name FROM information_schema.tables WHERE table_schema='public';"
+        )
     
     @pytest.mark.asyncio
     async def test_get_table_schema(self):
@@ -90,7 +92,15 @@ class TestDatabaseManager:
         pk = await db_manager.get_primary_key("products")
         
         assert pk == "id"
-        mock_conn.fetch.assert_called_once()
+        mock_conn.fetch.assert_called_once_with("""
+                SELECT k.column_name
+                FROM information_schema.table_constraints t
+                JOIN information_schema.key_column_usage k
+                    ON t.constraint_name = k.constraint_name
+                    AND t.table_schema = k.table_schema
+                WHERE t.constraint_type = 'PRIMARY KEY'
+                AND t.table_name = $1;
+            """, "products")
     
     @pytest.mark.asyncio
     async def test_get_table_data(self):
